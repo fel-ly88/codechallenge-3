@@ -1,4 +1,4 @@
-# Plant CLI 🌱
+# Plant CLI 
 
 A Python-based Command Line Interface (CLI) for managing a simple Plant database.  
 This project uses **SQLAlchemy ORM**, **Alembic migrations**, and follows best practices for CLI design.  
